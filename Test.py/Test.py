@@ -1,7 +1,4 @@
-def condicional(p, q):
-    if p == True and q == False:
-        return False
-    else:
-        return True
-    
-    
+i = 0
+while(i <= 10):
+    print("Este es el número", i)
+    i = i + 1
